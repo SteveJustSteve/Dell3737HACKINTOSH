@@ -1,7 +1,7 @@
 # Dell3737HACKINTOSH
 Clover config.plist for Dell Inspiron 3737
 
-# This is a config.plist for the Dell Inspiron 3737. 
+# config.plist for the Dell Inspiron 3737. 
 Please note that serial relevant data has to be added for better functionality. 
 
 Thanks to 
