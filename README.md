@@ -1,8 +1,8 @@
 # Dell3737HACKINTOSH
 Clover config.plist for Dell Inspiron 3737 with integrated Intel HD 4400 mobile
-Mainboard: 0C6PRJ
-Chipset: HM76
-CPU: i3-4010U 
+## Mainboard: 0C6PRJ
+## Chipset: HM76
+## CPU: i3-4010U 
 
 # config.plist for the Dell Inspiron 3737. 
 Please note that serial relevant data has to be added for better functionality. 
