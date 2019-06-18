@@ -8,7 +8,8 @@ n.b.
 
 Thanks to 
 #+ github, Apple, the interwebs and 
-# the global Hackintosh Community,especially Rehabman (https://github.com/RehabMan), especially Olarila (https://olarila.com/forum/), especially tonyxmac86 (https://www.tonymacx86.com),especially hackintosh-forum.de (https://www.hackintosh-forum.de).
+# the global Hackintosh Community,especially Rehabman (https://github.com/RehabMan), especially Olarila (https://olarila.com/forum/), especially tonyxmac86 (https://www.tonymacx86.com), and 
+# hackintosh-forum.de (https://www.hackintosh-forum.de).
 Without the beforementioned sources of information and help i would never have managed to run it.
 
 
